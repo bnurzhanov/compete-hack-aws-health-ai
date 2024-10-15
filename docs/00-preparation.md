@@ -34,3 +34,7 @@ You should see a screen similar to the screenshot below, indicating that you ini
 After a period of time (AWS states up to 30 minutes) you can refresh the screen to confirm that the data store is active.
 
 ![HealthLake active data store](/docs/assets/06-healthlake-datastore-active.png)
+
+## Reference
+
+You can find additional documentation about AWS HealthLake service on [AWS HealthLake service page](https://aws.amazon.com/healthlake/)
