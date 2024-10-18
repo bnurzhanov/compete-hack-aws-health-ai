@@ -24,3 +24,7 @@ Please ensure that you clean up resources so that your account is not charged af
 ![HealthLake deletion](/docs/assets/95-cleanup-healthlake.png)
 
 ![Confirm HealthLake deletion](/docs/assets/96-cleanup-healthlake-confirm.png)
+
+3. Close your AWS account
+
+If you do not want to maintain (and possibly incur additional expenses), you can close the AWS account using the instructions on [this page](https://docs.aws.amazon.com/accounts/latest/reference/manage-acct-closing.html).
